@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EFFFFD&height=200&section=header&text=dawon%20Lee&fontSize=90&fontColor=EEEDDE)
 
 
-
+<a href="https://www.notion.so/daoni/06b1bdde7d2c46cfba0f38810e05f636"><img src="https://img.shields.io/badge/Resume-00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
+ ###
+ 
 <a href="https://www.notion.so/daoni/4208a9762f3a4a559c7eb67c79bc72fe"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/lyumilove9@gmail.com-EA4335?style=square&logo=GMail&logoColor=white"/></a>
 
